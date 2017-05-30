@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  }
+.gray {
+  background-color: #eeeeee;
+  border-radius: 1%;
+}
+.top-margin {
+  margin-top: 40px;
+}
+.img-container {
+  max-width: 684px;
+}
+.header {
+  font-family: 'Bad Script', cursive;
+  font-weight: 600;
+  font-size: 48px; 
+}
